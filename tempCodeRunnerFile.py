@@ -1,0 +1,1 @@
++= total_fx / self.mass * self.T
